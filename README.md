@@ -1,5 +1,8 @@
 # cordova-plugin-kiosk-launcher
 
+Carlo318: Plugin updated to run with Platform Android 10 and 11.
+
+
 **This plugin is up for adoption**
 
 > This plugin makes a cordova app become a launcher (homescreen).
