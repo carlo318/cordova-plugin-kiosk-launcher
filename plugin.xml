@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-kiosk-launcher" version="1.1.1">
-    <name>Scanner</name>
+    <name>Kiosk plugin to run as main Launcher</name>
     <description>Cordova Kiosk Launcher Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,kiosk,launcher</keywords>
